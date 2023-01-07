@@ -18,4 +18,9 @@ input{
     border: none;
     outline: none;
     background-color: #1f1e1f7b;
+    width: 250px;
+    padding: 10px;
+    border: 10px;
+    border-radius: 20px;
+    color: white;
 }
