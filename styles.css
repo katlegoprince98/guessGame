@@ -23,4 +23,20 @@ input{
     border: 10px;
     border-radius: 20px;
     color: white;
+    margin: 5px;
+}
+button{
+    border: none;
+    outline: none;
+    background-color: #1f1e1f7b;
+    width: 250px;
+    padding: 10px;
+    border: 10px;
+    border-radius: 20px;
+    color: white;   
+    transition: 1s ease-in-out;
+}
+button:hover{
+    background-color: black;
+    color: whitesmoke;
 }
