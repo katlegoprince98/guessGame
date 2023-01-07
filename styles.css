@@ -1,9 +1,16 @@
 body{
     background-color: black;
     color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: sans-serif;
 }
 .container{
     width: 450px;
-    height: 450px;
-    background-color: #7c7b7c7b;
+    height: 250px;
+    background-color: #1f1e1f7b;
+   
+  
 }
